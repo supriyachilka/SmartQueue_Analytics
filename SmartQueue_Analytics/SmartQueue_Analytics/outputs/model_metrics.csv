@@ -1,0 +1,7 @@
+MSE,25.5
+RMSE,5.05
+R2,0.9175
+Peak_hour_avg_wait_min,53.32
+Normal_hour_avg_wait_min,51.59
+Busiest_hour,18
+Top_coefficient_feature,queue_length
